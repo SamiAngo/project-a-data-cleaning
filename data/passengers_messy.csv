@@ -1,0 +1,433 @@
+passenger_id,Name,Sex,Age,Pclass,Embarked,Survived
+1397,"Murphy, Dr. Frank",MALE,42.4,3,C,0
+1350,"O'Brien, Mr. Thomas", M ,23.3,2,Q,1
+1247,"Allen, Mrs. Helen",female,33.2,1,S,1
+1280,"O'Brien, Master. George",Male,42.6,3,S,0
+1017,"Walsh, Mr. James",MALE,31.7,3,S,1
+1266,"O'Brien, Col. John",male,47.9,1,C,1
+1228,"Allen, Mr. Edward",MALE,30.4,3,S,0
+1210,"Wilson, Dr. Frank",MALE,34.3,1,S,1
+1028,"Wilson, Miss. Grace",female,,3,S,1
+1198,"Smith, Mr. Thomas",Male,39.6,2,S,1
+1145,"Andersson, Col. James",male,29.4,2,C,1
+1411,"O'Brien, Miss. Ruth",female,18.8,3,C,1
+1270,"Allen, Miss. Elizabeth",FEMALE,,3,S,0
+1143,"Wilson, Rev. George",male,31.5,2,Q,0
+1283,"Evans, Mr. George",m,,1,C,1
+1068,"Webber, Mr. Thomas", M ,,1,C,0
+1041,"Carlsson, Mr. Arthur", M ,28.3,2,C,0
+1370,"Lindqvist, Col. Henry",MALE,,1,Q,0
+1176,"Brown, Mr. George",MALE,,2,S,1
+1015,"Andersson, Mlle. Margaret", F ,30.4,3,Q,1
+1267,"O'Brien, Miss. Mary",female,19.8,3,S,1
+1016,"Taylor, Dr. Arthur",male,,3,S,1
+1089,"Goldsmith, Mr. John",MALE,46.4,2,C,1
+1289,"Evans, Mr. Frank",male,27.8,3,S,0
+1160,"O'Brien, Mr. William",male,21.8,1,S,0
+1131,"Walsh, Mr. John", M ,,3,S,0
+1343,"Johansson, Rev. James",m,25.1,3,S,0
+1062,"Lindqvist, Mr. Edward",male,22.2,3,S,0
+1356,"Sandström, Mr. Thomas",male,42.2,1,S,0
+1081,"Andersson, Rev. James",Male,29.3,1,S,1
+1129,"Goldsmith, Col. James", M ,55.7,1,S,0
+1230,"O'Brien, Mrs. Elizabeth",female,23.8,3,S,1
+1360,"Brown, Master. John",male,35.0,3,S,0
+1318,"Smith, Miss. Grace",f,17.7,2,C,1
+1297,"Carlsson, Mr. Frank",MALE,28.3,3,S,0
+1295,"Johansson, Col. John",Male,34.9,3,Q,0
+1192,"Petrov, Mrs. Mary",FEMALE,13.8,3,C,1
+1407,"Smith, Mr. Arthur",m,24.9,3,S,0
+1113,"Walsh, Mr. Henry", M ,42.5,1,C,1
+1330,"Walsh, Mr. Henry",Male,54.7,1,S,0
+1125,"Evans, Mrs. Alice", F ,17.6,3,S,1
+1328,"Goldsmith, Mr. Thomas",m,,3,C,0
+1191,"Smith, Miss. Helen",Female,28.8,1,S,0
+1127,"Webber, Mr. Thomas", M ,,1,S,1
+1307,"Murphy, Mrs. Margaret",f,,2,C,1
+1104,"Evans, Mr. William", M ,39.7,3,Q,0
+1106,"Sandström, Col. William",male,32.3,2,S,0
+1074,"Goldsmith, Master. Edward",male,15.4,3,S,0
+1103,"Sandström, Master. James",m,26.1,2,Q,0
+1225,"Goldsmith, Mr. John",MALE,50.2,3,S,0
+1415,"Wilson, Mr. John",male,29.5,2,Q,0
+1117,"Petrov, Col. William", M ,25.1,3,S,1
+1354,"Wilson, Miss. Alice", F ,33.0,3,S,0
+1333,"Walsh, Mr. Edward",Male,28.5,3,S,0
+1245,"Wilson, Master. John",male,41.5,1,S,1
+1137,"Sandström, Mlle. Grace", F ,27.3,3,S,0
+1067,"Smith, Dr. William",male,33.2,2,S,1
+1082,"O'Brien, Mlle. Florence",f,,3,S,1
+1390,"Andersson, Miss. Ruth",Female,16.1,3,Q,0
+1389,"Taylor, Col. Henry",male,,3,Q,0
+1292,"Walsh, Mr. Charles",male,30.4,1,S,1
+1060,"Sandström, Col. Frank",MALE,17.5,3,S,0
+1256,"Smith, Mrs. Alice",f,31.2,3,S,1
+1305,"Allen, Col. Edward",m,32.0,3,S,0
+1124,"Fox, Miss. Margaret", F ,11.0,3,S,1
+1262,"Smith, Rev. Henry",m,21.7,3,S,0
+1394,"Murphy, Mr. Henry",Male,32.3,3,Q,1
+1084,"Webber, Dr. Frank",male,,1,S,0
+1057,"Fox, Mlle. Florence", F ,24.3,3,S,1
+1344,"Wilson, Mr. Thomas",MALE,35.0,3,S,0
+1237,"Fox, Dr. William",MALE,47.8,3,S,0
+1025,"Wilson, Dr. Henry", M ,32.9,1,S,1
+1147,"Davies, Mr. William",Male,39.7,1,S,1
+1032,"Webber, Dr. Thomas",MALE,40.3,2,S,1
+1088,"Murphy, Mr. Frank", M ,35.8,2,S,1
+1241,"Andersson, Rev. Frank",male,24.0,2,Q,0
+1155,"Sandström, Mrs. Mary",f,30.9,3,Q,0
+1273,"Webber, Dr. George",MALE,40.4,2,S,1
+1115,"Murphy, Lady. Ruth",female,25.5,1,S,0
+1038,"Hart, Rev. Edward",m,44.6,1,S,1
+1190,"Brown, Col. William",m,35.8,2,S,1
+1387,"Petrov, Mrs. Ruth",female,14.7,3,Q,1
+1410,"Davies, Mr. George",m,22.3,3,S,0
+1162,"Petrov, Lady. Helen",female,28.7,3,C,1
+1287,"Petrov, Mr. Frank",male,,2,C,1
+1232,"Goldsmith, Col. Charles",Male,23.5,3,C,1
+1340,"Fox, Mr. Charles", M ,57.9,1,S,0
+1291,"Carlsson, Miss. Ruth", F ,39.7,1,S,1
+1400,"Smith, Master. George",MALE,28.5,3,C,0
+1242,"Andersson, Master. Edward",m,44.6,2,S,0
+1102,"Johansson, Mr. Charles", M ,unknown,3,S,0
+1246,"Andersson, Master. James",male,25.6,2,S,1
+1128,"Allen, Dr. Frank",m,unknown,2,S,0
+1112,"Petrov, Col. George",Male,18.7,3,S,1
+1255,"Lindqvist, Mr. William", M ,-33.2,2,S,0
+1348,"Johansson, Master. William",male,29.2,3,S,0
+1108,"Goldsmith, Ms. Florence",female,30.1,3,C,1
+1056,"Petrov, Mlle. Florence",female,48.1,1,C,1
+1156,"Lindqvist, Mr. Frank", M ,,3,C,1
+1135,"Allen, Dr. Frank",Male,18.0,3,S,0
+1327,"Petrov, Miss. Elizabeth",f,27.3,1,S,1
+1302,"Davies, Miss. Edith",female,59.9,1,C,1
+1006,"Petrov, Miss. Elizabeth",female,,3,S,1
+1321,"Goldsmith, Dr. George",Male,7.8,3,C,1
+1167,"Petrov, Miss. Helen", F ,35.4,3,S,1
+1018,"Webber, Rev. James",male,9.3,3,Q,0
+1186,"Goldsmith, Dr. Charles",Male,31.4,1,S,1
+1251,"O'Brien, Mr. William",MALE,39.2,2,S,0
+1252,"Fox, Col. Frank",m,24.4,3,S,1
+1195,"Fox, Mr. Henry",Male,60.9,1,S,1
+1374,"Davies, Dr. George",male,34.2,3,Q,0
+1187,"Allen, Mr. George",m,42.9,1,S,0
+1158,"Wilson, Mr. George",Male,39.0,2,S,0
+1402,"Andersson, Mr. James",Male,31.2,3,S,0
+1083,"Evans, Miss. Elizabeth",Female,18.2,3,S,1
+1138,"Goldsmith, Dr. George",MALE,,3,C,0
+1054,"Hart, Mr. Henry",Male,37.3,2,S,0
+1263,"O'Brien, Mr. James",male,34.0,1,S,1
+1085,"Johansson, Ms. Elizabeth", F ,24.5,3,S,0
+1383,"O'Brien, Mlle. Anna",FEMALE,24.8,3,S,1
+1375,"Johansson, Col. Thomas",male,24.0,2,Q,0
+1052,"Evans, Mr. George",Male,,3,C,1
+1099,"Wilson, Col. James",male,63.6,1,S,1
+1011,"Lindqvist, Miss. Elizabeth",female,,2,Q,1
+1154,"Smith, Miss. Grace",female,32.9,3,Q,1
+1371,"Petrov, Lady. Alice",female,35.7,1,C,1
+1414,"Evans, Dr. Henry", M ,,2,S,1
+1075,"Goldsmith, Miss. Anna",Female,38.1,1,S,0
+1229,"O'Brien, Col. James",MALE,27.3,3,S,1
+1211,"Davies, Rev. Arthur", M ,34.8,2,S,1
+1272,"Smith, Col. Charles",m,56.3,1,S,0
+1024,"Evans, Ms. Elizabeth",female,32.1,1,S,1
+1234,"Brown, Dr. George",m,,3,S,1
+1231,"Murphy, Ms. Alice", F ,16.1,2,S,1
+1180,"Evans, Mr. Thomas",MALE,51.7,1,S,1
+1051,"Murphy, Mr. James",MALE,38.1,2,S,0
+1039,"Andersson, Ms. Edith",Female,22.3,3,S,1
+1197,"Evans, Mr. Edward", M ,36.3,1,S,1
+1006,"Petrov, Miss. Elizabeth",female,,3,S,1
+1076,"Davies, Mr. Thomas",m,21.7,3,S,1
+1048,"Davies, Lady. Edith",Female,25.6,3,S,1
+1047,"Lindqvist, Mlle. Helen",f,46.1,1,S,1
+1071,"Davies, Rev. Henry",m,24.8,3,S,1
+1335,"Taylor, Dr. Edward",m,36.7,3,C,0
+1080,"Webber, Mr. Frank", M ,48.2,1,C,0
+1031,"Brown, Rev. James",m,23.4,3,S,1
+1274,"Wilson, Mr. Charles",m,,3,S,1
+1412,"Walsh, Col. John",male,46.4,3,S,0
+1244,"Webber, Mr. Henry",MALE,33.2,3,S,1
+1116,"Johansson, Mr. Frank",MALE,18.9,3,S,0
+1026,"Allen, Master. Thomas",Male,,3,S,0
+1066,"Fox, Mr. James",m,42.0,2,S,1
+1212,"Lindqvist, Lady. Florence",f,31.6,2,S,1
+1346,"Sandström, Miss. Helen",FEMALE,21.9,3,C,1
+1165,"Johansson, Mr. Henry",Male,40.7,3,S,0
+1205,"Murphy, Mlle. Mary",FEMALE,19.8,3,S,0
+1418,"Lindqvist, Ms. Grace",FEMALE,29.5,2,S,1
+1069,"Fox, Miss. Anna",female,23.7,3,S,1
+1239,"Goldsmith, Mr. James",MALE,31.1,3,S,0
+1078,"Allen, Mr. George",m,35.7,3,Q,0
+1379,"Murphy, Mrs. Anna",female,18.8,3,S,1
+1240,"Walsh, Rev. Edward",MALE,13.7,3,Q,0
+1180,"Evans, Mr. Thomas",MALE,51.7,1,S,1
+1059,"Fox, Rev. John",Male,19.6,3,S,1
+1126,"Fox, Rev. James",Male,,2,S,0
+1043,"Walsh, Col. Henry",m,-28.6,3,S,1
+1005,"Brown, Mr. Charles",MALE,,2,S,0
+1122,"Allen, Mlle. Mary",female,26.3,3,S,1
+1005,"Brown, Mr. Charles",MALE,,2,S,0
+1378,"Lindqvist, Col. William",m,23.3,3,C,0
+1385,"Goldsmith, Ms. Alice",female,9.9,2,S,1
+1279,"Andersson, Miss. Helen",f,32.4,3,Q,0
+1110,"Davies, Mr. John",MALE,,3,C,0
+1119,"Sandström, Ms. Ruth", F ,17.2,2,S,1
+1264,"Lindqvist, Mrs. Ruth",female,32.8,1,C,1
+1206,"Wilson, Mr. James",male,28.2,1,S,1
+1007,"Wilson, Dr. Charles",MALE,44.5,1,S,1
+1359,"Murphy, Lady. Edith",female,33.1,1,S,0
+1215,"Brown, Lady. Grace",female,15.5,3,C,0
+1194,"Allen, Rev. Henry",male,,3,S,1
+1226,"Sandström, Lady. Anna",f,48.6,1,S,1
+1196,"Brown, Mrs. Margaret",Female,,3,Q,1
+1189,"Davies, Mrs. Florence",f,22.0,2,C,0
+1362,"O'Brien, Mr. James",Male,22.0,3,S,1
+1219,"Hart, Col. George",male,39.2,1,S,0
+1398,"Murphy, Rev. James",Male,44.6,1,S,1
+1004,"Brown, Mlle. Elizabeth", F ,,2,S,1
+1202,"Smith, Mr. Charles",MALE,31.2,3,S,0
+1123,"Sandström, Col. William",m,45.1,3,S,1
+1079,"Allen, Mr. William",Male,28.5,3,S,0
+1341,"Brown, Rev. John",m,34.1,2,S,1
+1281,"Andersson, Master. Frank",Male,-32.4,3,C,1
+1065,"Evans, Mr. Thomas",male,47.7,2,S,1
+1019,"Hart, Mr. Arthur",Male,23.6,3,Q,0
+1299,"Wilson, Miss. Elizabeth",FEMALE,26.4,3,C,0
+1152,"Petrov, Mr. Thomas",m,20.0,3,S,1
+1420,"Wilson, Rev. William", M ,43.7,1,Q,0
+1044,"Davies, Rev. George",m,28.0,3,S,0
+1181,"Smith, Miss. Mary", F ,-16.8,3,S,1
+1304,"Smith, Mr. Charles",MALE,37.2,3,S,0
+1164,"Allen, Dr. Edward",male,34.7,1,S,0
+1288,"Walsh, Mr. James",Male,23.9,3,S,0
+1141,"Davies, Master. James",m,33.6,3,S,1
+1349,"Taylor, Miss. Anna",female,14.2,2,S,1
+1408,"Fox, Mr. George", M ,,3,S,0
+1250,"Davies, Rev. Frank",Male,40.0,2,S,1
+1395,"Hart, Mr. Thomas",Male,28.0,2,,1
+1320,"Johansson, Rev. George", M ,28.1,3,S,0
+1306,"Sandström, Mr. James",male,unknown,2,S,1
+1169,"O'Brien, Mr. Arthur",Male,24.4,2,S,0
+1355,"Walsh, Mr. Frank", M ,47.3,1,S,1
+1046,"Wilson, Mr. Edward",male,36.2,3,S,0
+1345,"Walsh, Mr. Frank",male,47.3,1,Q,0
+1144,"Petrov, Mr. George",male,32.3,3,S,0
+1248,"Lindqvist, Mrs. Elizabeth",female,18.9,3,S,0
+1372,"Davies, Master. William",male,,1,S,1
+1042,"Taylor, Mrs. Mary",female,,3,S,1
+1238,"Smith, Master. John",m,36.3,1,S,1
+1022,"Sandström, Dr. Edward", M ,,1,S,1
+1285,"Webber, Mr. Edward",Male,32.3,3,C,0
+1109,"Davies, Dr. Frank", M ,37.3,2,S,0
+1178,"Allen, Lady. Elizabeth",FEMALE,33.4,3,S,1
+1058,"Davies, Rev. Frank", M ,22.1,2,S,0
+1331,"Allen, Mr. George",Male,31.7,3,S,0
+1204,"Allen, Rev. George",Male,37.4,1,S,1
+1303,"Goldsmith, Mlle. Alice",f,7.9,3,S,0
+1308,"Allen, Ms. Anna", F ,18.3,2,S,1
+1269,"Murphy, Mr. Charles",MALE,24.3,2,C,0
+1401,"Sandström, Mr. John",m,26.5,2,S,0
+1171,"Taylor, Mrs. Mary",female,5.4,3,Q,1
+1030,"Davies, Mrs. Edith", F ,26.4,3,S,1
+1163,"Lindqvist, Mr. Frank",male,43.5,3,S,0
+1150,"Murphy, Mr. Charles",MALE,11.5,3,S,1
+1326,"Wilson, Mr. George",male,32.8,1,C,1
+1405,"Carlsson, Mlle. Margaret",female,34.3,1,S,1
+1200,"Murphy, Miss. Helen",FEMALE,,3,S,1
+1322,"Webber, Mrs. Mary",Female,36.0,1,S,1
+1095,"Goldsmith, Mrs. Florence",female,,2,S,1
+1261,"Lindqvist, Mr. George",Male,unknown,1,C,1
+1386,"Evans, Mrs. Margaret",Female,16.2,3,S,1
+1222,"Taylor, Mrs. Alice",FEMALE,48.0,1,S,0
+1086,"Fox, Col. George",m,8.3,3,S,1
+1133,"Webber, Mr. James",male,36.7,2,Q,0
+1188,"Murphy, Mr. George",MALE,55.1,1,S,1
+1249,"Wilson, Dr. James",Male,,3,S,1
+1090,"Smith, Col. Henry",male,36.3,2,C,1
+1012,"Brown, Dr. William",m,45.6,2,S,1
+1035,"Sandström, Miss. Anna",Female,24.4,3,S,1
+1218,"Hart, Col. John",m,35.8,3,S,1
+1073,"Goldsmith, Miss. Anna",Female,35.9,3,C,1
+1392,"O'Brien, Mr. Edward",Male,21.7,3,S,0
+1221,"Davies, Rev. Thomas",male,16.9,3,C,1
+1260,"Smith, Miss. Florence", F ,26.6,2,S,1
+1413,"Johansson, Master. Thomas",male,25.7,3,S,0
+1140,"Walsh, Col. Edward", M ,34.0,3,,0
+1166,"Brown, Lady. Margaret",Female,35.7,3,S,1
+1379,"Murphy, Mrs. Anna",female,18.8,3,S,1
+1013,"Andersson, Master. William",MALE,39.3,2,S,0
+1199,"Johansson, Mlle. Florence",female,20.3,3,Q,1
+1214,"Fox, Rev. William",m,,3,S,1
+1381,"Webber, Miss. Margaret",female,32.8,1,C,1
+1235,"Wilson, Dr. William",male,51.6,1,S,0
+1365,"Brown, Miss. Florence",FEMALE,6.8,3,C,1
+1298,"Allen, Rev. George", M ,33.5,3,S,0
+1369,"Taylor, Master. Edward",male,15.5,3,S,0
+1097,"Fox, Col. John",male,29.0,1,Q,1
+1271,"Carlsson, Col. Charles",male,33.1,3,,0
+1064,"Wilson, Mrs. Alice",FEMALE,,1,C,1
+1223,"Webber, Mr. John",MALE,23.8,3,Q,0
+1096,"Walsh, Master. Arthur",m,27.2,3,S,0
+1014,"Webber, Mr. Arthur", M ,35.8,2,S,1
+1018,"Webber, Rev. James",male,9.3,3,Q,0
+1310,"Brown, Mr. William",m,41.0,3,S,0
+1247,"Allen, Mrs. Helen",female,33.2,1,S,1
+1335,"Taylor, Dr. Edward",m,36.7,3,C,0
+1208,"Brown, Master. John",male,17.6,3,C,0
+1091,"Goldsmith, Miss. Elizabeth",Female,38.1,1,S,1
+1282,"Lindqvist, Miss. Margaret",FEMALE,,2,S,1
+1040,"Carlsson, Mr. Edward",male,64.6,1,Q,0
+1087,"Murphy, Col. Charles",Male,23.0,3,S,0
+1182,"Smith, Miss. Grace",Female,20.3,3,S,1
+1293,"Lindqvist, Master. Frank",male,45.2,3,S,0
+1146,"Davies, Ms. Florence",female,,3,S,0
+1159,"Taylor, Miss. Helen",female,30.3,1,Q,1
+1352,"Walsh, Mrs. Florence",f,32.1,1,S,1
+1314,"Taylor, Mr. James",Male,25.3,3,Q,0
+1315,"Andersson, Dr. Arthur",male,46.7,2,S,0
+1300,"Lindqvist, Master. Edward",male,20.2,2,S,0
+1201,"Walsh, Mr. William",male,31.3,3,S,1
+1072,"Carlsson, Dr. Thomas",male,33.7,2,C,0
+1329,"Petrov, Miss. Edith",female,37.0,1,S,1
+1362,"O'Brien, Mr. James",Male,22.0,3,S,1
+1311,"Murphy, Dr. John",male,,3,S,1
+1339,"Brown, Mr. John",male,24.2,3,S,0
+1404,"Hart, Mr. James",male,22.3,3,,0
+1334,"Murphy, Mr. Henry",m,52.1,1,Q,1
+1134,"Sandström, Mr. Arthur",male,36.4,2,S,0
+1061,"Lindqvist, Master. Charles",Male,,3,S,1
+1324,"Brown, Mr. George",male,25.3,3,S,0
+1416,"Goldsmith, Dr. Edward",Male,27.7,3,S,0
+1101,"Goldsmith, Mr. Charles",male,39.1,3,S,1
+1020,"Walsh, Master. Frank", M ,25.3,3,S,0
+1366,"O'Brien, Mr. John",Male,,3,Q,1
+1403,"Brown, Mrs. Ruth", F ,43.1,1,S,1
+1265,"Wilson, Mr. Charles",male,38.6,1,S,1
+1277,"Webber, Mrs. Margaret",f,,1,S,1
+1009,"Taylor, Mrs. Ruth",female,,3,S,1
+1284,"Allen, Lady. Alice", F ,unknown,3,S,1
+1093,"Carlsson, Mr. James",male,,3,Q,1
+1253,"O'Brien, Mr. Thomas",male,34.7,1,C,1
+1033,"Johansson, Ms. Florence", F ,32.1,1,S,1
+1136,"Walsh, Rev. Henry",MALE,,2,C,0
+1023,"Carlsson, Mr. George",Male,38.5,3,S,0
+1063,"Lindqvist, Mr. George", M ,,3,Q,0
+1419,"Davies, Rev. Frank",Male,45.5,3,S,1
+1216,"Petrov, Rev. Frank",male,40.0,2,S,0
+1357,"Carlsson, Rev. Edward", M ,46.5,3,S,0
+1367,"Fox, Lady. Anna",female,25.7,2,S,1
+1258,"Petrov, Mr. Charles",male,,3,S,1
+1053,"Murphy, Miss. Alice",f,47.2,1,S,0
+1358,"Smith, Rev. Charles",male,34.5,3,Q,1
+1174,"Brown, Dr. George",MALE,34.1,1,S,1
+1036,"O'Brien, Master. James",male,,1,S,1
+1179,"Andersson, Mrs. Grace",f,22.6,3,S,1
+1168,"Smith, Ms. Anna",FEMALE,22.8,3,S,1
+1227,"Allen, Mlle. Anna",Female,14.7,3,C,1
+1121,"Davies, Mlle. Margaret",female,unknown,1,S,1
+1276,"Andersson, Master. John", M ,34.7,3,C,0
+1045,"Lindqvist, Mrs. Alice",FEMALE,28.8,3,S,1
+1301,"Petrov, Mr. John",male,35.1,3,S,0
+1325,"Goldsmith, Ms. Edith",female,,3,S,1
+1077,"O'Brien, Mrs. Margaret", F ,24.5,3,C,0
+1209,"Andersson, Mr. George",male,27.8,3,,0
+1213,"Goldsmith, Mr. Henry",m,30.6,1,S,1
+1268,"Andersson, Rev. William",m,32.4,2,S,1
+1312,"Andersson, Mr. Henry", M ,30.6,2,S,0
+1217,"Davies, Dr. Frank",MALE,,3,S,0
+1377,"Wilson, Dr. George",male,52.7,1,C,0
+1010,"Brown, Dr. Arthur",MALE,,3,S,1
+1393,"Murphy, Mrs. Elizabeth",female,24.0,3,S,1
+1368,"Smith, Col. George",male,25.4,3,S,1
+1286,"Johansson, Col. Edward",Male,34.9,1,C,1
+1296,"Goldsmith, Mr. Arthur",male,26.1,3,S,1
+1105,"Smith, Mr. Arthur",m,19.1,3,S,1
+1313,"Allen, Ms. Edith",Female,23.9,3,S,1
+1388,"Murphy, Rev. Frank",m,20.1,3,S,1
+1214,"Fox, Rev. William",m,,3,S,1
+1092,"Fox, Miss. Alice",Female,11.7,3,S,1
+1183,"Webber, Mr. Frank",MALE,36.3,3,S,1
+1316,"Walsh, Master. Henry",male,,3,S,1
+1396,"Wilson, Mrs. Helen",female,37.1,1,S,1
+1173,"O'Brien, Mlle. Margaret",female,23.7,3,S,1
+1233,"Wilson, Mrs. Helen",Female,26.7,3,S,1
+1409,"Brown, Mr. Thomas", M ,,2,S,1
+1037,"Brown, Rev. Henry",male,,2,S,0
+1157,"Fox, Miss. Grace",female,18.7,2,C,1
+1003,"Taylor, Mr. Arthur",MALE,39.9,3,S,0
+1243,"Sandström, Col. James",male,21.5,3,Q,1
+1309,"Sandström, Mr. Frank",m,,1,S,0
+1290,"Wilson, Mr. George",Male,,3,S,0
+1049,"Webber, Mr. Charles",Male,24.2,3,S,0
+1142,"Lindqvist, Master. Thomas",m,14.7,3,S,0
+1224,"Webber, Ms. Elizabeth", F ,0.8,3,S,0
+1353,"Andersson, Col. Charles",male,45.1,1,Q,0
+1184,"Goldsmith, Mr. Edward",m,19.1,3,S,0
+1332,"Goldsmith, Mrs. Helen", F ,20.7,2,C,1
+1391,"O'Brien, Miss. Helen",FEMALE,,3,S,1
+1161,"O'Brien, Lady. Margaret",f,58.6,1,C,0
+1337,"Goldsmith, Master. John",m,,3,S,0
+1220,"Wilson, Miss. Mary", F ,,3,C,1
+1100,"Lindqvist, Lady. Elizabeth",FEMALE,41.7,1,S,1
+1236,"Johansson, Miss. Helen",female,36.6,1,Q,1
+1118,"Brown, Rev. Thomas",m,,1,Q,1
+1342,"Evans, Master. Edward",Male,24.7,2,S,0
+1002,"Brown, Miss. Grace",female,,3,S,1
+1114,"Walsh, Miss. Grace", F ,,3,S,0
+1417,"Wilson, Mrs. Anna",f,28.2,3,S,1
+1175,"Taylor, Mr. Henry",m,40.7,1,S,0
+1254,"Murphy, Mrs. Alice", F ,30.3,2,Q,0
+1382,"Petrov, Mr. James",m,31.6,2,S,0
+1185,"Taylor, Rev. Charles", M ,26.8,3,C,0
+1166,"Brown, Lady. Margaret",Female,35.7,3,S,1
+1373,"Smith, Lady. Helen",FEMALE,13.7,3,S,1
+1275,"Sandström, Dr. William",Male,32.0,2,C,0
+1193,"Wilson, Ms. Edith",FEMALE,26.1,1,S,1
+1001,"Johansson, Mr. Charles", M ,38.7,3,S,1
+1055,"Andersson, Mr. William",male,42.5,2,S,1
+1376,"Sandström, Mr. Arthur",MALE,27.2,3,S,0
+1029,"Petrov, Mr. Thomas",male,,3,S,0
+1207,"Davies, Mrs. Ruth",f,19.5,3,S,1
+1384,"Walsh, Mr. Charles",MALE,50.6,1,Q,1
+1050,"Carlsson, Ms. Edith",FEMALE,18.7,3,S,1
+1351,"Petrov, Miss. Grace",female,34.6,2,S,1
+1021,"Petrov, Col. Thomas",male,34.1,1,S,1
+1294,"Walsh, Mrs. Helen",female,32.5,3,S,0
+1177,"Andersson, Rev. Henry",Male,44.4,3,S,0
+1336,"Fox, Mr. George",male,42.0,1,S,1
+1380,"Brown, Mrs. Grace", F ,31.8,3,S,1
+1034,"Fox, Mrs. Ruth",Female,28.6,1,Q,1
+1172,"Johansson, Dr. Charles",Male,15.4,3,S,1
+1008,"Brown, Col. Arthur", M ,25.9,3,S,0
+1319,"Andersson, Master. Henry",male,47.5,1,S,1
+1118,"Brown, Rev. Thomas",m,,1,Q,1
+1107,"Fox, Col. Arthur",MALE,31.2,3,S,0
+1098,"Goldsmith, Ms. Florence",female,35.1,2,S,1
+1111,"Taylor, Dr. William",m,22.9,3,S,0
+1361,"Sandström, Miss. Mary", F ,31.4,2,S,1
+1070,"Walsh, Mlle. Edith",female,37.4,1,S,1
+1347,"Lindqvist, Col. Thomas",male,23.5,3,S,0
+1130,"Webber, Mr. George",Male,31.3,2,,1
+1317,"Murphy, Col. Arthur",male,36.2,3,S,1
+1259,"Johansson, Miss. Florence",Female,22.7,3,Q,0
+1323,"Petrov, Ms. Helen",Female,14.2,3,Q,1
+1151,"Allen, Mrs. Florence",female,48.9,2,S,1
+1338,"Fox, Mr. Charles",male,41.1,1,C,0
+1027,"Sandström, Miss. Ruth", F ,19.4,3,S,1
+1399,"Sandström, Mr. James", M ,-23.8,3,S,1
+1094,"Murphy, Miss. Elizabeth",Female,37.5,3,S,1
+1149,"Lindqvist, Master. William",male,,3,S,1
+1120,"Allen, Master. Frank",Male,15.9,3,S,0
+1406,"Sandström, Mlle. Helen",female,,3,C,1
+1139,"Allen, Mr. Frank",male,23.9,3,S,0
+1170,"Murphy, Miss. Helen",female,21.6,3,C,1
+1364,"O'Brien, Miss. Ruth",female,21.6,3,C,1
+1203,"Wilson, Mrs. Helen", F ,27.9,3,S,1
+1148,"Sandström, Mr. James",male,40.0,2,S,0
+1278,"Goldsmith, Master. Thomas",MALE,,3,S,0
+1257,"Lindqvist, Mr. William",MALE,63.2,1,S,1
+1132,"Taylor, Dr. Edward", M ,18.5,3,C,1
+1250,"Davies, Rev. Frank",Male,40.0,2,S,1
+1153,"Johansson, Miss. Florence",female,30.7,3,S,1
+1363,"Fox, Mr. Thomas",Male,34.6,2,S,0
