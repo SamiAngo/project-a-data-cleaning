@@ -42,7 +42,7 @@ print("\n===== CABIN MISSINGNESS =====")
 print(fares["Cabin"].isnull().sum())
 
 cabin_missing_pct = fares["Cabin"].isnull().mean() * 100
-print("Cabin missing:", cabin_missing_pct, "%")
+print(f"\nCabin missing: {cabin_missing_pct:.2f}%")
 
 
 passenger_ids = set(passengers["passenger_id"])
